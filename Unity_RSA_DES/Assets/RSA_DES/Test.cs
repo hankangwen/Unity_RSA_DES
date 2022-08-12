@@ -21,6 +21,7 @@ public class Test : MonoBehaviour
     
     void Start()
     {
+        message = SystemInfo.deviceUniqueIdentifier;
         Debug.Log("src:" + message);
         byte[] data = Encoding.Default.GetBytes(message);   //网络数据包
         

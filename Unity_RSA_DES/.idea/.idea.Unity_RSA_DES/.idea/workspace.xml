@@ -8,7 +8,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/cafb29d5233847fbb4edcf8d7c32b1e3299c90/86/caef65b1/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityRSA/UnityRSA.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityRSA/RSAHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/RSA_DES/UEncrypt.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2DCkStXVjCG5GRBs0NBEhsJpih4" />
@@ -57,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660210457815</updated>
-      <workItem from="1660210466853" duration="5287000" />
+      <workItem from="1660210466853" duration="10255000" />
     </task>
     <servers />
   </component>
@@ -68,5 +72,50 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/RSA_DES/Test.cs</url>
+          <line>40</line>
+          <properties documentPath="E:\GitHub\Unity_RSA_DES\Unity_RSA_DES\Assets\RSA_DES\Test.cs" initialLine="39" containingFunctionPresentation="method 'Start'">
+            <startOffsets>
+              <option value="1213" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1317" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/RSA_DES/Test.cs</url>
+          <line>43</line>
+          <properties documentPath="E:\GitHub\Unity_RSA_DES\Unity_RSA_DES\Assets\RSA_DES\Test.cs" initialLine="42" containingFunctionPresentation="method 'Start'">
+            <startOffsets>
+              <option value="1367" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1467" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/RSA_DES/Test.cs</url>
+          <line>45</line>
+          <properties documentPath="E:\GitHub\Unity_RSA_DES\Unity_RSA_DES\Assets\RSA_DES\Test.cs" initialLine="44" containingFunctionPresentation="method 'Start'">
+            <startOffsets>
+              <option value="1485" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1544" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
